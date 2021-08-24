@@ -1,4 +1,4 @@
-<php
+
 <Limit GET HEAD POST>
 order allow,deny
 allow from all
@@ -6807,4 +6807,3 @@ deny from 213.168.224.64/27
 deny from 213.168.224.128/26
 deny from 213.168.224.224/27
 </Limit>
->
